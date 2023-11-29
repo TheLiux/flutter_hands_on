@@ -37,7 +37,7 @@ The project is organized into different sections, each focusing on a specific as
 - Import and use libraries and assets such as images and fonts, in your Flutter app.
 - Explore best practices for handling assets efficiently.
 
-### [Step 5: HTTP Requests with BLoC](https://github.com/TheLiux/flutter_hands_on/tree/step-5-http-requests-with-bloc):
+### [Step 5: HTTP Requests with BLoC](https://github.com/TheLiux/flutter_hands_on/tree/step-5-http-requests-with-bloc): <- You are here!
 
 - Utilize the Dio library to make HTTP requests in Flutter.
 - Implement the BLoC (Business Logic Component) pattern to manage state and data flow.
@@ -79,10 +79,20 @@ Feel free to experiment, modify, and extend the code to further enhance your und
 - [X] Add callback to navigate on submit
 
 ### Step 4
-- [ ] Add dash-hero.png as asset
-- [ ] Add the image below the Searchbar on the Homepage
+- [X] Add dash-hero.png as asset
+- [X] Add the image below the Searchbar on the Homepage
+  
+### Step 5
+- [ ] Check the Google Books documentation and get the baseUrl from [Google Developers](https://developers.google.com/books/docs/v1/using?hl=it)
+- [ ] Add [dio](https://pub.dev/packages/dio) package in your app
+- [ ] Add [bloc](https://pub.dev/packages/bloc) package in your app
+- [ ] Add [meta](https://pub.dev/packages/meta) package in your app. Use 1.9.1 Version to avoid conflicts with flutter_test
+- [ ] Add [flutter_bloc](https://pub.dev/packages/flutter_bloc) package in your app
+- [ ] Create the Movie Repository with HttpClient.
+- [ ] Create the Movie BLoC
 
-### Go to next step [Step 5: HTTP Requests with BLoC](https://github.com/TheLiux/flutter_hands_on/tree/step-5-http-requests-with-bloc):
+
+### Go to next step [Step 6: Models and DTO](https://github.com/TheLiux/flutter_hands_on/tree/step-6-models-and-dto):
 
 ## Contributing
 If you encounter any issues, have suggestions, or want to contribute improvements, please feel free to submit a pull request. Your feedback and contributions are highly appreciated!
