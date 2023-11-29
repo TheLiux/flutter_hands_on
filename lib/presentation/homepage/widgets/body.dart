@@ -14,6 +14,7 @@ class HomePageBody extends StatelessWidget {
             hintText: 'Digita Qualcosa',
             onSubmitted: (value) {},
           ),
+          Image.asset('assets/dash-hero.png'),
         ],
       ),
     );
