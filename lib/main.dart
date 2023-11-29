@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_hands_on/presentation/book_list_page/book_list_page.dart';
 import 'package:flutter_hands_on/presentation/homepage/homepage.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -20,7 +21,11 @@ class MyApp extends StatelessWidget {
         textTheme: GoogleFonts.spaceGroteskTextTheme(),
         useMaterial3: true,
       ),
-      home: const HomePage(),
+      routes: {
+        '/': (context) => const HomePage(),
+        '/book-list-page': (context) => const BookListPage(),
+      },
+      initialRoute: '/', // Schermata iniziale
     );
   }
 }
