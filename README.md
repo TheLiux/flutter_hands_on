@@ -27,7 +27,7 @@ The project is organized into different sections, each focusing on a specific as
 - Learn how to create new custom widgets to enhance the modularity and reusability of your code.
 - Understand widget composition and inheritance principles.
 
-### [Step 3: Routing](https://github.com/TheLiux/flutter_hands_on/tree/step-3-routing): <- You are here!
+### [Step 3: Routing](https://github.com/TheLiux/flutter_hands_on/tree/step-3-routing):
 
 - Implement page navigation using Flutter's routing system.
 - Create new pages and manage navigation between them.
@@ -74,12 +74,15 @@ Feel free to experiment, modify, and extend the code to further enhance your und
 - [X] Create a HomePage with a SearchBar
 
 ### Step 3
-- [ ] Create a second page named BookListPage with path `/book-list-page`
-- [ ] Add the routes on MaterialApp
-- [ ] Add callback to navigate on submit
+- [X] Create a second page named BookListPage with path `/book-list-page`
+- [X] Add the routes on MaterialApp
+- [X] Add callback to navigate on submit
 
+### Step 4
+- [ ] Add dash-hero.png as asset
+- [ ] Add the image below the Searchbar on the Homepage
 
-### Go to next step [Step 4: Assets Management](https://github.com/TheLiux/flutter_hands_on/tree/step-4-assets-management):
+### Go to next step [Step 5: HTTP Requests with BLoC](https://github.com/TheLiux/flutter_hands_on/tree/step-5-http-requests-with-bloc):
 
 ## Contributing
 If you encounter any issues, have suggestions, or want to contribute improvements, please feel free to submit a pull request. Your feedback and contributions are highly appreciated!
