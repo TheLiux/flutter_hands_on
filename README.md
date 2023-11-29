@@ -17,12 +17,12 @@ cd flutter-hands-on
 ## Project Structure
 The project is organized into different sections, each focusing on a specific aspect of Flutter development. The primary sections include:
 
-### [Step 1: Theming](https://github.com/TheLiux/flutter_hands_on/tree/step-1-theming): <- You are here!
+### [Step 1: Theming](https://github.com/TheLiux/flutter_hands_on/tree/step-1-theming):
 
 - Explore how to set up a theme for your Flutter app.
 - Customize colors, fonts, and other visual elements to create a cohesive design.
   
-### [Step 2: Widget Creation](https://github.com/TheLiux/flutter_hands_on/tree/step-2-widget-creation):
+### [Step 2: Widget Creation](https://github.com/TheLiux/flutter_hands_on/tree/step-2-widget-creation): <- You are here!
 
 - Learn how to create new custom widgets to enhance the modularity and reusability of your code.
 - Understand widget composition and inheritance principles.
@@ -64,12 +64,16 @@ Feel free to experiment, modify, and extend the code to further enhance your und
 
 ## TO-DO
 ### Step 1
-- [ ] Change the color of your app
-- [ ] Add Google Fonts, your first dependency in your app
-- [ ] Change the font of your app with Google Fonts Library
-- [ ] Launch your app
+- [X] Change the color of your app
+- [X] Add Google Fonts, your first dependency in your app
+- [X] Change the font of your app with Google Fonts Library
+- [X] Launch your app
 
-### Go to next step [Step 2: Widget Creation](https://github.com/TheLiux/flutter_hands_on/tree/step-2-widget-creation):
+### Step 2
+- [ ] Remove default widgets
+- [ ] Create a HomePage with a SearchBar
+
+### Go to next step [Step 2: Widget Creation](https://github.com/TheLiux/flutter_hands_on/tree/step-3-routing):
 
 ## Contributing
 If you encounter any issues, have suggestions, or want to contribute improvements, please feel free to submit a pull request. Your feedback and contributions are highly appreciated!
