@@ -22,12 +22,12 @@ The project is organized into different sections, each focusing on a specific as
 - Explore how to set up a theme for your Flutter app.
 - Customize colors, fonts, and other visual elements to create a cohesive design.
   
-### [Step 2: Widget Creation](https://github.com/TheLiux/flutter_hands_on/tree/step-2-widget-creation): <- You are here!
+### [Step 2: Widget Creation](https://github.com/TheLiux/flutter_hands_on/tree/step-2-widget-creation):
 
 - Learn how to create new custom widgets to enhance the modularity and reusability of your code.
 - Understand widget composition and inheritance principles.
 
-### [Step 3: Routing](https://github.com/TheLiux/flutter_hands_on/tree/step-3-routing):
+### [Step 3: Routing](https://github.com/TheLiux/flutter_hands_on/tree/step-3-routing): <- You are here!
 
 - Implement page navigation using Flutter's routing system.
 - Create new pages and manage navigation between them.
@@ -70,10 +70,16 @@ Feel free to experiment, modify, and extend the code to further enhance your und
 - [X] Launch your app
 
 ### Step 2
-- [ ] Remove default widgets
-- [ ] Create a HomePage with a SearchBar
+- [X] Remove default widgets
+- [X] Create a HomePage with a SearchBar
 
-### Go to next step [Step 2: Widget Creation](https://github.com/TheLiux/flutter_hands_on/tree/step-3-routing):
+### Step 3
+- [ ] Create a second page named BookListPage with path `/book-list-page`
+- [ ] Add the routes on MaterialApp
+- [ ] Add callback to navigate on submit
+
+
+### Go to next step [Step 4: Assets Management](https://github.com/TheLiux/flutter_hands_on/tree/step-4-assets-management):
 
 ## Contributing
 If you encounter any issues, have suggestions, or want to contribute improvements, please feel free to submit a pull request. Your feedback and contributions are highly appreciated!
