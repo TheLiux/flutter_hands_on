@@ -17,7 +17,7 @@ cd flutter-hands-on
 ## Project Structure
 The project is organized into different sections, each focusing on a specific aspect of Flutter development. The primary sections include:
 
-### [Step 1: Theming](https://github.com/TheLiux/flutter_hands_on/tree/step-1-theming):
+### [Step 1: Theming](https://github.com/TheLiux/flutter_hands_on/tree/step-1-theming): <- You are here!
 
 - Explore how to set up a theme for your Flutter app.
 - Customize colors, fonts, and other visual elements to create a cohesive design.
@@ -61,6 +61,15 @@ Replace branch-name with the desired branch, such as `step-1-theming`, `step-2-w
 Follow the instructions provided in each branch's README file to complete the tasks related to that section.
 
 Feel free to experiment, modify, and extend the code to further enhance your understanding of Flutter development.
+
+## TO-DO
+### Step 1
+- [ ] Change the color of your app
+- [ ] Add Google Fonts, your first dependency in your app
+- [ ] Change the font of your app with Google Fonts Library
+- [ ] Launch your app
+
+### Go to next step [Step 2: Widget Creation](https://github.com/TheLiux/flutter_hands_on/tree/step-2-widget-creation):
 
 ## Contributing
 If you encounter any issues, have suggestions, or want to contribute improvements, please feel free to submit a pull request. Your feedback and contributions are highly appreciated!
