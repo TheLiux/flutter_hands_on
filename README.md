@@ -83,16 +83,25 @@ Feel free to experiment, modify, and extend the code to further enhance your und
 - [X] Add the image below the Searchbar on the Homepage
   
 ### Step 5
-- [ ] Check the Google Books documentation and get the baseUrl from [Google Developers](https://developers.google.com/books/docs/v1/using?hl=it)
-- [ ] Add [dio](https://pub.dev/packages/dio) package in your app
-- [ ] Add [bloc](https://pub.dev/packages/bloc) package in your app
-- [ ] Add [meta](https://pub.dev/packages/meta) package in your app. Use 1.9.1 Version to avoid conflicts with flutter_test
-- [ ] Add [flutter_bloc](https://pub.dev/packages/flutter_bloc) package in your app
-- [ ] Create the Movie Repository with HttpClient.
-- [ ] Create the Movie BLoC
+- [X] Check the Google Books documentation and get the baseUrl from [Google Developers](https://developers.google.com/books/docs/v1/using?hl=it)
+- [X] Add [dio](https://pub.dev/packages/dio) package in your app
+- [X] Add [bloc](https://pub.dev/packages/bloc) package in your app
+- [X] Add [meta](https://pub.dev/packages/meta) package in your app. Use 1.9.1 Version to avoid conflicts with flutter_test
+- [X] Add [flutter_bloc](https://pub.dev/packages/flutter_bloc) package in your app
+- [X] Create the Movie Repository with HttpClient.
+- [X] Create the Movie BLoC
 
+### Step 6
+- [ ] Add json_serializable package in your app
+- [ ] Add json_annotation and build_runner as dev dependencies in your app
+- [ ] Create the class Book and add Json Serializable annotations
+- [ ] Generate your files
+- [ ] Convert the response.data and use the new Book class instead of the Map
+- [ ] Create a new page named BookDetailsPage with path `/book-details-page`
+- [ ] Create a new widget to show the Book data
+  
 
-### Go to next step [Step 6: Models and DTO](https://github.com/TheLiux/flutter_hands_on/tree/step-6-models-and-dto):
+###  [Finished Project](https://github.com/TheLiux/flutter_hands_on):
 
 ## Contributing
 If you encounter any issues, have suggestions, or want to contribute improvements, please feel free to submit a pull request. Your feedback and contributions are highly appreciated!
